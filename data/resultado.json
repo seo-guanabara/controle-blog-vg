@@ -1,7 +1,7 @@
 {
-  "gerado_em": "2026-07-28T16:41:22.895952+00:00",
+  "gerado_em": "2026-07-28T17:01:42.729156+00:00",
   "total_artigos": 95,
-  "total_publicados": 60,
+  "total_publicados": 90,
   "artigos": [
     {
       "num": 1,
@@ -11,7 +11,7 @@
       "slug": "campos-do-jordao-sp-guia-completo-inverno",
       "persona": "Júlia Farias",
       "imagem": "Foto panorâmica da Vila Capivari em Campos do Jordão durante o inverno, com neblina baixa entre os pinheiros, chalés iluminados ao fundo e rua de paralelepípedo vazia no início da manhã. Sugestão Shutterstock: \"Campos do Jordão Vila Capivari inverno neblina chalés\".",
-      "status": "Publicado (confirmado via API)",
+      "status": "Nao encontrado como publicado",
       "data_iso": "",
       "link": ""
     },
@@ -24,8 +24,8 @@
       "persona": "Júlia Farias",
       "imagem": "Rua de Serra Negra SP com bandeirolas coloridas, casario histórico e chalés ao fundo, clima de cidade serrana no inverno. Sugestão Shutterstock: \"Serra Negra SP rua centro inverno\".",
       "status": "Publicado (confirmado via API)",
-      "data_iso": "",
-      "link": ""
+      "data_iso": "2026-07-09",
+      "link": "https://viajeguanabara.com.br/blog/o-que-fazer-em-serra-negra-sp-no-inverno/"
     },
     {
       "num": 3,
@@ -36,8 +36,8 @@
       "persona": "Júlia Farias",
       "imagem": "Vista da vila de Monte Verde MG com neblina baixa entre pinheiros e eucaliptos, casaria de madeira ao fundo, fim de tarde de inverno. Sugestão Shutterstock: \"Monte Verde MG vila inverno neblina pinheiros\".",
       "status": "Publicado (confirmado via API)",
-      "data_iso": "",
-      "link": ""
+      "data_iso": "2026-07-10",
+      "link": "https://viajeguanabara.com.br/blog/monte-verde-mg-guia-completo-inverno/"
     },
     {
       "num": 4,
@@ -48,8 +48,8 @@
       "persona": "Júlia Farias",
       "imagem": "Vista de Domingos Martins ES com mountains e vegetação de mata atlântica ao fundo, arquitetura de influência alemã no centro da cidade, clima de inverno serrano. Sugestão Shutterstock: \"Domingos Martins ES inverno serra arquitetura alemã\".",
       "status": "Publicado (confirmado via API)",
-      "data_iso": "",
-      "link": ""
+      "data_iso": "2026-07-10",
+      "link": "https://viajeguanabara.com.br/blog/domingos-martins-es-guia-completo-inverno/"
     },
     {
       "num": 5,
@@ -60,8 +60,8 @@
       "persona": "Júlia Farias",
       "imagem": "Rua do centro histórico de Petrópolis com prédios imperiais, casarões do século XIX e canal com pontes ao fundo, clima de inverno serrano fluminense. Sugestão Shutterstock: \"Petrópolis centro histórico imperial canal\".",
       "status": "Publicado (confirmado via API)",
-      "data_iso": "",
-      "link": ""
+      "data_iso": "2026-07-10",
+      "link": "https://viajeguanabara.com.br/blog/o-que-fazer-em-petropolis-rj-guia-completo/"
     },
     {
       "num": 6,
@@ -72,8 +72,8 @@
       "persona": "Júlia Farias",
       "imagem": "Vista da Igreja Matriz de Santo Antônio em Tiradentes MG com rua de paralelepípedo e casario colonial preservado ao fundo, fim de tarde de inverno. Sugestão Shutterstock: \"Tiradentes MG Igreja Santo Antônio colonial inverno\".",
       "status": "Publicado (confirmado via API)",
-      "data_iso": "",
-      "link": ""
+      "data_iso": "2026-07-10",
+      "link": "https://viajeguanabara.com.br/blog/o-que-fazer-em-tiradentes-mg-no-inverno/"
     },
     {
       "num": 7,
@@ -84,8 +84,8 @@
       "persona": "Tiago Rezende",
       "imagem": "Collage ou imagem de paisagem serrana no inverno com neblina, pinheiros e casaria de montanha no Sudeste brasileiro. Sugestão Shutterstock: \"Brazil mountain town winter fog forest\".",
       "status": "Publicado (confirmado via API)",
-      "data_iso": "",
-      "link": ""
+      "data_iso": "2026-07-17",
+      "link": "https://viajeguanabara.com.br/blog/melhores-destinos-frio-sudeste-julho/"
     },
     {
       "num": 8,
@@ -96,8 +96,8 @@
       "persona": "Tiago Rezende",
       "imagem": "Mala aberta com roupas de inverno dobradas organizadas (casaco, cachecol, luvas, meias grossas), sobre cama de pousada serrana com decoração rústica ao fundo. Sugestão Shutterstock: \"luggage packed winter clothes travel packing organization\".",
       "status": "Publicado (confirmado via API)",
-      "data_iso": "",
-      "link": ""
+      "data_iso": "2026-07-16",
+      "link": "https://viajeguanabara.com.br/blog/o-que-levar-para-viagem-de-inverno-no-brasil-checklist/"
     },
     {
       "num": 9,
@@ -108,8 +108,8 @@
       "persona": "Júlia Farias",
       "imagem": "Vista do Dedo de Deus em Teresópolis RJ, a formação rochosa única recortada contra o céu azul, vegetação de Mata Atlântica ao redor. Sugestão Shutterstock: \"Dedo de Deus Teresópolis Parque Nacional Serra Órgãos\".",
       "status": "Publicado (confirmado via API)",
-      "data_iso": "",
-      "link": ""
+      "data_iso": "2026-07-10",
+      "link": "https://viajeguanabara.com.br/blog/teresopolis-rj-o-que-fazer-guia-completo/"
     },
     {
       "num": 10,
@@ -120,8 +120,8 @@
       "persona": "Júlia Farias",
       "imagem": "Rua principal de Gramado RS no inverno com arquitetura alemã iluminada, neblina baixa, árvores de hortênsias roxas nas calçadas e pedestres com casacos. Sugestão Shutterstock: \"Gramado RS Serra Gaúcha inverno hortênsias rua\".",
       "status": "Publicado (confirmado via API)",
-      "data_iso": "",
-      "link": ""
+      "data_iso": "2026-07-10",
+      "link": "https://viajeguanabara.com.br/blog/gramado-rs-guia-completo-inverno-2026/"
     },
     {
       "num": 11,
@@ -132,8 +132,8 @@
       "persona": "Júlia Farias",
       "imagem": "Vista da vila histórica de Paranapiacaba SP com casas de madeira inglesas do século XIX, neblina sobre a floresta ao fundo e trilho de trem em primeiro plano. Sugestão Shutterstock: \"Paranapiacaba vila histórica neblina inverno ferrovia\".",
       "status": "Publicado (confirmado via API)",
-      "data_iso": "",
-      "link": ""
+      "data_iso": "2026-07-16",
+      "link": "https://viajeguanabara.com.br/blog/festival-de-inverno-paranapiacaba-2026-o-que-fazer/"
     },
     {
       "num": 12,
@@ -144,8 +144,8 @@
       "persona": "Júlia Farias",
       "imagem": "Vista do Morro do Pai Inácio na Chapada Diamantina BA com chapada verde ao fundo, céu azul de inverno seco e formação rochosa dramática em primeiro plano. Sugestão Shutterstock: \"Chapada Diamantina Morro Pai Inácio vista inverno seco\".",
       "status": "Publicado (confirmado via API)",
-      "data_iso": "",
-      "link": ""
+      "data_iso": "2026-07-18",
+      "link": "https://viajeguanabara.com.br/blog/chapada-diamantina-ba-guia-completo-inverno/"
     },
     {
       "num": 13,
@@ -156,8 +156,8 @@
       "persona": "Tiago Rezende",
       "imagem": "Mapa estilizado do Brasil com marcadores de temperatura nas cidades mais frias de julho, fundo azul de inverno e neve/geada nos marcadores do Sul. Sugestão Shutterstock: \"Brazil map temperature winter cold regions\".",
       "status": "Publicado (confirmado via API)",
-      "data_iso": "",
-      "link": ""
+      "data_iso": "2026-07-10",
+      "link": "https://viajeguanabara.com.br/blog/onde-faz-mais-frio-no-brasil-em-julho/"
     },
     {
       "num": 14,
@@ -168,8 +168,8 @@
       "persona": "Samara Queiroz",
       "imagem": "Vista de parque aquático em Caldas Novas GO com piscinas de águas termais, toboáguas e famílias aproveitando, dia ensolarado de céu azul. Sugestão Shutterstock: \"Caldas Novas Goiás parque aquático águas termais piscina\".",
       "status": "Publicado (confirmado via API)",
-      "data_iso": "",
-      "link": ""
+      "data_iso": "2026-07-15",
+      "link": "https://viajeguanabara.com.br/blog/o-que-fazer-em-caldas-novas-go-guia-completo/"
     },
     {
       "num": 15,
@@ -180,8 +180,8 @@
       "persona": "Júlia Farias",
       "imagem": "Vista das Cataratas do Iguaçu com a Garganta do Diabo ao fundo, passarela com turistas e névoa das quedas d'água subindo, vegetação de mata atlântica ao redor. Sugestão Shutterstock: \"Cataratas do Iguaçu Garganta do Diabo passarela turistas\".",
       "status": "Publicado (confirmado via API)",
-      "data_iso": "",
-      "link": ""
+      "data_iso": "2026-07-15",
+      "link": "https://viajeguanabara.com.br/blog/o-que-fazer-em-foz-do-iguacu-pr-guia-completo/"
     },
     {
       "num": 16,
@@ -192,8 +192,8 @@
       "persona": "Júlia Farias",
       "imagem": "Vista do Jardim Botânico de Curitiba com a estufa de vidro e ferro em estilo art nouveau, jardins geométricos em primeiro plano, céu de inverno. Sugestão Shutterstock: \"Jardim Botânico Curitiba estufa jardins\".",
       "status": "Publicado (confirmado via API)",
-      "data_iso": "",
-      "link": ""
+      "data_iso": "2026-07-15",
+      "link": "https://viajeguanabara.com.br/blog/o-que-fazer-em-curitiba-pr-guia-completo/"
     },
     {
       "num": 17,
@@ -204,8 +204,8 @@
       "persona": "Júlia Farias",
       "imagem": "Vista aérea de Goiânia GO mostrando a arborização da cidade, o Parque Vaca Brava com lago e prédios ao redor, céu azul do Cerrado. Sugestão Shutterstock: \"Goiânia Goiás parque cidade arborizada aérea\".",
       "status": "Publicado (confirmado via API)",
-      "data_iso": "",
-      "link": ""
+      "data_iso": "2026-07-15",
+      "link": "https://viajeguanabara.com.br/blog/o-que-fazer-em-goiania-go-guia-completo/"
     },
     {
       "num": 18,
@@ -216,8 +216,8 @@
       "persona": "Júlia Farias",
       "imagem": "Vista do centro histórico de São Luís MA com os casarões coloniais revestidos de azulejos portugueses, rua de paralelepípedo e arquitetura colonial preservada. Sugestão Shutterstock: \"São Luís Maranhão centro histórico azulejos portugueses casarões\".",
       "status": "Publicado (confirmado via API)",
-      "data_iso": "",
-      "link": ""
+      "data_iso": "2026-07-15",
+      "link": "https://viajeguanabara.com.br/blog/o-que-fazer-em-sao-luis-ma-guia-completo/"
     },
     {
       "num": 19,
@@ -228,8 +228,8 @@
       "persona": "Júlia Farias",
       "imagem": "Vista do Teatro Amazonas em Manaus com a cúpula colorida em mosaico, arquitetura da Belle Époque e a praça de São Sebastião com calçamento ondulado em primeiro plano. Sugestão Shutterstock: \"Teatro Amazonas Manaus cúpula praça\".",
       "status": "Publicado (confirmado via API)",
-      "data_iso": "",
-      "link": ""
+      "data_iso": "2026-07-15",
+      "link": "https://viajeguanabara.com.br/blog/o-que-fazer-em-manaus-am-guia-completo/"
     },
     {
       "num": 20,
@@ -240,8 +240,8 @@
       "persona": "Júlia Farias",
       "imagem": "Vista aérea da Ponte Hercílio Luz em Florianópolis SC ao entardecer, com o mar ao redor e a ilha ao fundo, céu com tons alaranjados. Sugestão Shutterstock: \"Ponte Hercílio Luz Florianópolis entardecer aérea\".",
       "status": "Publicado (confirmado via API)",
-      "data_iso": "",
-      "link": ""
+      "data_iso": "2026-07-16",
+      "link": "https://viajeguanabara.com.br/blog/o-que-fazer-em-florianopolis-sc-guia-completo/"
     },
     {
       "num": 21,
@@ -252,8 +252,8 @@
       "persona": "Júlia Farias",
       "imagem": "Vista de cachoeira na Chapada dos Guimarães MT com formação rochosa avermelhada ao redor e vegetação de cerrado, céu azul de fim de tarde. Sugestão Shutterstock: \"Chapada dos Guimarães cachoeira cerrado Mato Grosso\".",
       "status": "Publicado (confirmado via API)",
-      "data_iso": "",
-      "link": ""
+      "data_iso": "2026-07-17",
+      "link": "https://viajeguanabara.com.br/blog/o-que-fazer-em-cuiaba-mt-guia-completo/"
     },
     {
       "num": 22,
@@ -264,8 +264,8 @@
       "persona": "Júlia Farias",
       "imagem": "Flutuação em rio de água cristalina em Bonito MS com peixes visíveis, vegetação exuberante nas margens e luz solar penetrando na água transparente. Sugestão Shutterstock: \"Bonito Mato Grosso do Sul flutuação rio cristalino\".",
       "status": "Publicado (confirmado via API)",
-      "data_iso": "",
-      "link": ""
+      "data_iso": "2026-07-17",
+      "link": "https://viajeguanabara.com.br/blog/como-chegar-em-bonito-ms-de-onibus-o-que-fazer/"
     },
     {
       "num": 23,
@@ -276,8 +276,8 @@
       "persona": "Júlia Farias",
       "imagem": "Vista do Rio Acre em Rio Branco AC com a orla urbanizada, barcos tradicionais e vegetação amazônica ao fundo, luz de fim de tarde. Sugestão Shutterstock: \"Rio Acre Rio Branco orla vegetação amazônica\".",
       "status": "Publicado (confirmado via API)",
-      "data_iso": "",
-      "link": ""
+      "data_iso": "2026-07-18",
+      "link": "https://viajeguanabara.com.br/blog/o-que-fazer-em-rio-branco-ac-guia-completo/"
     },
     {
       "num": 24,
@@ -288,8 +288,8 @@
       "persona": "Júlia Farias",
       "imagem": "Vista do Rio Madeira em Porto Velho RO ao entardecer com embarcações tradicionais e vegetação amazônica na margem, céu com tons dourados. Sugestão Shutterstock: \"Rio Madeira Porto Velho entardecer embarcações\".",
       "status": "Publicado (confirmado via API)",
-      "data_iso": "",
-      "link": ""
+      "data_iso": "2026-07-18",
+      "link": "https://viajeguanabara.com.br/blog/o-que-fazer-em-porto-velho-ro-guia-completo/"
     },
     {
       "num": 25,
@@ -300,8 +300,8 @@
       "persona": "Júlia Farias",
       "imagem": "Vista do Monte Roraima com sua formação de tepui (montanha de topo plano) emergindo da savana, céu dramático com nuvens ao redor do platô. Sugestão Shutterstock: \"Monte Roraima tepui savana paisagem\".",
       "status": "Publicado (confirmado via API)",
-      "data_iso": "",
-      "link": ""
+      "data_iso": "2026-07-19",
+      "link": "https://viajeguanabara.com.br/blog/o-que-fazer-em-boa-vista-rr-guia-completo/"
     },
     {
       "num": 26,
@@ -312,8 +312,8 @@
       "persona": "Júlia Farias",
       "imagem": "Marco Zero do Equador em Macapá AP, obelisco de concreto marcando a Linha do Equador com o Rio Amazonas ao fundo, céu de fim de tarde. Sugestão Shutterstock: \"Marco Zero Macapá Linha Equador obelisco\".",
       "status": "Publicado (confirmado via API)",
-      "data_iso": "",
-      "link": ""
+      "data_iso": "2026-07-19",
+      "link": "https://viajeguanabara.com.br/blog/o-que-fazer-em-macapa-ap-guia-completo/"
     },
     {
       "num": 27,
@@ -323,9 +323,9 @@
       "slug": "reveillon-cabo-frio-2027-guia-completo",
       "persona": "Júlia Farias",
       "imagem": "Queima de fogos sobre a Praia do Forte em Cabo Frio RJ durante a virada de ano, multidão na areia e balsas com fogos ao fundo. Sugestão Shutterstock: \"Cabo Frio Praia do Forte reveillon fogos multidão\".",
-      "status": "Nao encontrado como publicado",
-      "data_iso": "",
-      "link": ""
+      "status": "Publicado (confirmado via API)",
+      "data_iso": "2026-07-15",
+      "link": "https://viajeguanabara.com.br/blog/reveillon-cabo-frio-2027-guia-completo/"
     },
     {
       "num": 28,
@@ -335,9 +335,9 @@
       "slug": "reveillon-rio-de-janeiro-copacabana-2027",
       "persona": "Júlia Farias",
       "imagem": "Queima de fogos sobre a Praia de Copacabana durante o Réveillon, multidão vestida de branco na areia, orla iluminada. Sugestão Shutterstock: \"Copacabana reveillon fogos multidão branco\".",
-      "status": "Nao encontrado como publicado",
-      "data_iso": "",
-      "link": ""
+      "status": "Publicado (confirmado via API)",
+      "data_iso": "2026-07-15",
+      "link": "https://viajeguanabara.com.br/blog/reveillon-rio-de-janeiro-copacabana-2027/"
     },
     {
       "num": 29,
@@ -347,9 +347,9 @@
       "slug": "reveillon-salvador-virada-2027",
       "persona": "Júlia Farias",
       "imagem": "Queima de fogos sobre o Farol da Barra em Salvador durante o Réveillon, multidão na orla e barcos iluminados na baía. Sugestão Shutterstock: \"Farol da Barra Salvador reveillon fogos\".",
-      "status": "Nao encontrado como publicado",
-      "data_iso": "",
-      "link": ""
+      "status": "Publicado (confirmado via API)",
+      "data_iso": "2026-07-15",
+      "link": "https://viajeguanabara.com.br/blog/reveillon-salvador-virada-2027/"
     },
     {
       "num": 30,
@@ -359,9 +359,9 @@
       "slug": "reveillon-natal-rn-ponta-negra-2027",
       "persona": "Júlia Farias",
       "imagem": "Queima de fogos sobre a Praia de Ponta Negra em Natal com o Morro do Careca ao fundo, multidão na areia. Sugestão Shutterstock: \"Ponta Negra Natal reveillon Morro do Careca\".",
-      "status": "Nao encontrado como publicado",
-      "data_iso": "",
-      "link": ""
+      "status": "Publicado (confirmado via API)",
+      "data_iso": "2026-07-15",
+      "link": "https://viajeguanabara.com.br/blog/reveillon-natal-rn-ponta-negra-2027/"
     },
     {
       "num": 31,
@@ -371,9 +371,9 @@
       "slug": "morro-de-sao-paulo-ba-guia-completo",
       "persona": "Júlia Farias",
       "imagem": "Vista da Segunda Praia em Morro de São Paulo BA com barcos ancorados em água cristalina e falésias ao fundo. Sugestão Shutterstock: \"Morro de São Paulo Bahia praia barcos falésia\".",
-      "status": "Nao encontrado como publicado",
-      "data_iso": "",
-      "link": ""
+      "status": "Publicado (confirmado via API)",
+      "data_iso": "2026-07-15",
+      "link": "https://viajeguanabara.com.br/blog/morro-de-sao-paulo-ba-guia-completo/"
     },
     {
       "num": 32,
@@ -383,9 +383,9 @@
       "slug": "itacare-ba-guia-completo-praias-surfe",
       "persona": "Júlia Farias",
       "imagem": "Vista aérea da Praia da Concha em Itacaré BA com curva de areia, mata atlântica na encosta e mar de tons variados de azul. Sugestão Shutterstock: \"Itacaré Bahia praia Concha mata atlântica aérea\".",
-      "status": "Nao encontrado como publicado",
-      "data_iso": "",
-      "link": ""
+      "status": "Publicado (confirmado via API)",
+      "data_iso": "2026-07-15",
+      "link": "https://viajeguanabara.com.br/blog/itacare-ba-guia-completo-praias-surfe/"
     },
     {
       "num": 33,
@@ -395,9 +395,9 @@
       "slug": "ilheus-ba-guia-completo",
       "persona": "Júlia Farias",
       "imagem": "Vista do centro histórico de Ilhéus BA com igreja colonial e casario à beira-mar, barcos de pesca na orla. Sugestão Shutterstock: \"Ilhéus Bahia centro histórico orla barcos\".",
-      "status": "Nao encontrado como publicado",
-      "data_iso": "",
-      "link": ""
+      "status": "Publicado (confirmado via API)",
+      "data_iso": "2026-07-15",
+      "link": "https://viajeguanabara.com.br/blog/ilheus-ba-guia-completo/"
     },
     {
       "num": 34,
@@ -407,9 +407,9 @@
       "slug": "maragogi-al-guia-completo-piscinas-naturais",
       "persona": "Júlia Farias",
       "imagem": "Piscinas naturais de Maragogi AL com água turquesa transparente sobre recifes de coral, barco de passeio ancorado ao fundo. Sugestão Shutterstock: \"Maragogi Alagoas piscinas naturais Galés água turquesa\".",
-      "status": "Nao encontrado como publicado",
-      "data_iso": "",
-      "link": ""
+      "status": "Publicado (confirmado via API)",
+      "data_iso": "2026-07-15",
+      "link": "https://viajeguanabara.com.br/blog/maragogi-al-guia-completo-piscinas-naturais/"
     },
     {
       "num": 35,
@@ -419,9 +419,9 @@
       "slug": "buzios-rj-guia-completo-praias",
       "persona": "Júlia Farias",
       "imagem": "Vista da Rua das Pedras em Búzios RJ ao entardecer, casario colorido, movimento de turistas nas calçadas. Sugestão Shutterstock: \"Búzios Rua das Pedras entardecer movimento\".",
-      "status": "Nao encontrado como publicado",
-      "data_iso": "",
-      "link": ""
+      "status": "Publicado (confirmado via API)",
+      "data_iso": "2026-07-15",
+      "link": "https://viajeguanabara.com.br/blog/buzios-rj-guia-completo-praias/"
     },
     {
       "num": 36,
@@ -431,9 +431,9 @@
       "slug": "praia-do-rosa-sc-guia-completo",
       "persona": "Júlia Farias",
       "imagem": "Vista aérea da Praia do Rosa SC com lagoa ao fundo, dunas e mar de tons variados de azul e verde. Sugestão Shutterstock: \"Praia do Rosa Santa Catarina aérea lagoa dunas\".",
-      "status": "Nao encontrado como publicado",
-      "data_iso": "",
-      "link": ""
+      "status": "Publicado (confirmado via API)",
+      "data_iso": "2026-07-15",
+      "link": "https://viajeguanabara.com.br/blog/praia-do-rosa-sc-guia-completo/"
     },
     {
       "num": 37,
@@ -443,9 +443,9 @@
       "slug": "litoral-norte-da-bahia-praia-do-forte-guia",
       "persona": "Júlia Farias",
       "imagem": "Vista da Praia do Forte BA com coqueiros inclinados sobre a areia, farol histórico ao fundo e mar em tons de verde e azul. Sugestão Shutterstock: \"Praia do Forte Bahia coqueiros farol\".",
-      "status": "Nao encontrado como publicado",
-      "data_iso": "",
-      "link": ""
+      "status": "Publicado (confirmado via API)",
+      "data_iso": "2026-07-15",
+      "link": "https://viajeguanabara.com.br/blog/litoral-norte-da-bahia-praia-do-forte-guia/"
     },
     {
       "num": 38,
@@ -455,9 +455,9 @@
       "slug": "arraial-dajuda-ba-guia-completo",
       "persona": "Júlia Farias",
       "imagem": "Vista da Rua do Mucugê em Arraial d'Ajuda BA ao entardecer, casario colorido e movimento de turistas. Sugestão Shutterstock: \"Arraial d'Ajuda Rua do Mucugê entardecer\".",
-      "status": "Nao encontrado como publicado",
-      "data_iso": "",
-      "link": ""
+      "status": "Publicado (confirmado via API)",
+      "data_iso": "2026-07-15",
+      "link": "https://viajeguanabara.com.br/blog/arraial-dajuda-ba-guia-completo/"
     },
     {
       "num": 39,
@@ -467,9 +467,9 @@
       "slug": "checklist-mala-de-verao-o-que-levar",
       "persona": "Tiago Rezende",
       "imagem": "Mala aberta com roupas de verão dobradas, óculos de sol, protetor solar e chinelo, sobre cama com decoração de praia ao fundo. Sugestão Shutterstock: \"summer packing beach vacation luggage sunscreen\".",
-      "status": "Nao encontrado como publicado",
-      "data_iso": "",
-      "link": ""
+      "status": "Publicado (confirmado via API)",
+      "data_iso": "2026-07-15",
+      "link": "https://viajeguanabara.com.br/blog/checklist-mala-de-verao-o-que-levar/"
     },
     {
       "num": 40,
@@ -479,9 +479,9 @@
       "slug": "onde-ver-queima-de-fogos-no-reveillon-brasil",
       "persona": "Tiago Rezende",
       "imagem": "Colagem visual de queima de fogos em diferentes praias brasileiras durante o Réveillon, múltiplas cidades. Sugestão Shutterstock: \"Brazil New Year fireworks beach celebration multiple cities\".",
-      "status": "Nao encontrado como publicado",
-      "data_iso": "",
-      "link": ""
+      "status": "Publicado (confirmado via API)",
+      "data_iso": "2026-07-15",
+      "link": "https://viajeguanabara.com.br/blog/onde-ver-queima-de-fogos-no-reveillon-brasil/"
     },
     {
       "num": 41,
@@ -491,9 +491,9 @@
       "slug": "praias-do-brasil-sem-multidao-verao",
       "persona": "Tiago Rezende",
       "imagem": "Praia deserta e preservada no Brasil com poucas pessoas, água clara e vegetação nativa ao redor. Sugestão Shutterstock: \"Brazil empty beach untouched nature quiet\".",
-      "status": "Nao encontrado como publicado",
-      "data_iso": "",
-      "link": ""
+      "status": "Publicado (confirmado via API)",
+      "data_iso": "2026-07-15",
+      "link": "https://viajeguanabara.com.br/blog/praias-do-brasil-sem-multidao-verao/"
     },
     {
       "num": 42,
@@ -503,9 +503,9 @@
       "slug": "quando-comprar-passagem-de-onibus-para-o-verao",
       "persona": "Tiago Rezende",
       "imagem": "Calendário com datas de verão marcadas ao lado de passagem de ônibus e mala, sobre mesa de planejamento de viagem. Sugestão Shutterstock: \"travel planning calendar bus ticket summer booking\".",
-      "status": "Nao encontrado como publicado",
-      "data_iso": "",
-      "link": ""
+      "status": "Publicado (confirmado via API)",
+      "data_iso": "2026-07-15",
+      "link": "https://viajeguanabara.com.br/blog/quando-comprar-passagem-de-onibus-para-o-verao/"
     },
     {
       "num": 43,
@@ -515,9 +515,9 @@
       "slug": "cabo-frio-rj-como-chegar-de-onibus-guia-completo",
       "persona": "Tiago Rezende",
       "imagem": "Ônibus rodoviário chegando à rodoviária de Cabo Frio RJ, mala sendo descarregada, movimento de passageiros. Sugestão Shutterstock: \"bus arrival Cabo Frio terminal passengers luggage\".",
-      "status": "Nao encontrado como publicado",
-      "data_iso": "",
-      "link": ""
+      "status": "Publicado (confirmado via API)",
+      "data_iso": "2026-07-15",
+      "link": "https://viajeguanabara.com.br/blog/cabo-frio-rj-como-chegar-de-onibus-guia-completo/"
     },
     {
       "num": 44,
@@ -527,9 +527,9 @@
       "slug": "rio-de-janeiro-brasilia-onibus-guia-completo",
       "persona": "Tiago Rezende",
       "imagem": "Ônibus rodoviário em estrada federal ao entardecer, paisagem de cerrado ao fundo, placa indicando Brasília. Sugestão Shutterstock: \"highway bus sunset cerrado Brazil road trip\".",
-      "status": "Nao encontrado como publicado",
-      "data_iso": "",
-      "link": ""
+      "status": "Publicado (confirmado via API)",
+      "data_iso": "2026-07-15",
+      "link": "https://viajeguanabara.com.br/blog/rio-de-janeiro-brasilia-onibus-guia-completo/"
     },
     {
       "num": 45,
@@ -539,9 +539,9 @@
       "slug": "rio-de-janeiro-campos-do-jordao-onibus",
       "persona": "Júlia Farias",
       "imagem": "Ônibus rodoviário na estrada da serra com neblina, placas indicando Campos do Jordão, paisagem de montanha. Sugestão Shutterstock: \"mountain highway bus fog Campos do Jordao road\".",
-      "status": "Nao encontrado como publicado",
-      "data_iso": "",
-      "link": ""
+      "status": "Publicado (confirmado via API)",
+      "data_iso": "2026-07-15",
+      "link": "https://viajeguanabara.com.br/blog/rio-de-janeiro-campos-do-jordao-onibus/"
     },
     {
       "num": 46,
@@ -551,9 +551,9 @@
       "slug": "fortaleza-joao-pessoa-onibus-roteiro",
       "persona": "Júlia Farias",
       "imagem": "Ônibus rodoviário na estrada do litoral nordestino com coqueiros ao lado da via, céu azul de dia ensolarado. Sugestão Shutterstock: \"Nordeste highway bus coconut trees coastal road\".",
-      "status": "Nao encontrado como publicado",
-      "data_iso": "",
-      "link": ""
+      "status": "Publicado (confirmado via API)",
+      "data_iso": "2026-07-15",
+      "link": "https://viajeguanabara.com.br/blog/fortaleza-joao-pessoa-onibus-roteiro/"
     },
     {
       "num": 47,
@@ -563,9 +563,9 @@
       "slug": "recife-salvador-onibus-dois-destinos",
       "persona": "Júlia Farias",
       "imagem": "Ônibus rodoviário em estrada litorânea do Nordeste entre Pernambuco e Bahia, paisagem de dunas e vegetação costeira. Sugestão Shutterstock: \"Nordeste coastal highway bus dunes vegetation\".",
-      "status": "Nao encontrado como publicado",
-      "data_iso": "",
-      "link": ""
+      "status": "Publicado (confirmado via API)",
+      "data_iso": "2026-07-15",
+      "link": "https://viajeguanabara.com.br/blog/recife-salvador-onibus-dois-destinos/"
     },
     {
       "num": 48,
@@ -575,9 +575,9 @@
       "slug": "sao-luis-teresina-onibus-conectando-maranhao-piaui",
       "persona": "Júlia Farias",
       "imagem": "Ônibus rodoviário em estrada do Nordeste entre Maranhão e Piauí, paisagem de cerrado nordestino ao entardecer. Sugestão Shutterstock: \"Nordeste highway bus cerrado sunset road trip\".",
-      "status": "Nao encontrado como publicado",
-      "data_iso": "",
-      "link": ""
+      "status": "Publicado (confirmado via API)",
+      "data_iso": "2026-07-15",
+      "link": "https://viajeguanabara.com.br/blog/sao-luis-teresina-onibus-conectando-maranhao-piaui/"
     },
     {
       "num": 49,
@@ -587,9 +587,9 @@
       "slug": "petrolina-aracaju-onibus-guia-completo",
       "persona": "Júlia Farias",
       "imagem": "Ônibus rodoviário em estrada do sertão nordestino com vegetação de caatinga, céu claro e estrada reta ao horizonte. Sugestão Shutterstock: \"sertão nordeste highway bus caatinga road\".",
-      "status": "Nao encontrado como publicado",
-      "data_iso": "",
-      "link": ""
+      "status": "Publicado (confirmado via API)",
+      "data_iso": "2026-07-15",
+      "link": "https://viajeguanabara.com.br/blog/petrolina-aracaju-onibus-guia-completo/"
     },
     {
       "num": 50,
@@ -599,9 +599,9 @@
       "slug": "sao-luis-barreirinhas-onibus-lencois-maranhenses",
       "persona": "Júlia Farias",
       "imagem": "Ônibus regional em estrada de acesso a Barreirinhas MA com paisagem de dunas ao fundo, céu claro. Sugestão Shutterstock: \"Barreirinhas Maranhão highway bus dunes access road\".",
-      "status": "Nao encontrado como publicado",
-      "data_iso": "",
-      "link": ""
+      "status": "Publicado (confirmado via API)",
+      "data_iso": "2026-07-16",
+      "link": "https://viajeguanabara.com.br/blog/sao-luis-barreirinhas-onibus-lencois-maranhenses/"
     },
     {
       "num": 51,
@@ -611,9 +611,9 @@
       "slug": "rio-de-janeiro-aparecida-do-norte-onibus",
       "persona": "Júlia Farias",
       "imagem": "Ônibus rodoviário chegando à rodoviária de Aparecida SP com a Basílica ao fundo, romeiros caminhando. Sugestão Shutterstock: \"Aparecida do Norte bus arrival Basilica pilgrims\".",
-      "status": "Nao encontrado como publicado",
-      "data_iso": "",
-      "link": ""
+      "status": "Publicado (confirmado via API)",
+      "data_iso": "2026-07-16",
+      "link": "https://viajeguanabara.com.br/blog/rio-de-janeiro-aparecida-do-norte-onibus/"
     },
     {
       "num": 52,
@@ -623,9 +623,9 @@
       "slug": "fortaleza-sao-paulo-onibus-guia-completo",
       "persona": "Tiago Rezende",
       "imagem": "Ônibus rodoviário leito em estrada federal de longa distância, paisagem mudando de litoral nordestino para área urbana, luz de entardecer. Sugestão Shutterstock: \"long distance bus highway Brazil sunset road trip\".",
-      "status": "Nao encontrado como publicado",
-      "data_iso": "",
-      "link": ""
+      "status": "Publicado (confirmado via API)",
+      "data_iso": "2026-07-16",
+      "link": "https://viajeguanabara.com.br/blog/fortaleza-sao-paulo-onibus-guia-completo/"
     },
     {
       "num": 53,
@@ -635,9 +635,9 @@
       "slug": "rio-de-janeiro-campinas-onibus-guia-completo",
       "persona": "Tiago Rezende",
       "imagem": "Ônibus rodoviário chegando a terminal urbano de Campinas SP, arquitetura moderna ao fundo, movimento de passageiros. Sugestão Shutterstock: \"bus terminal Campinas arrival modern architecture\".",
-      "status": "Nao encontrado como publicado",
-      "data_iso": "",
-      "link": ""
+      "status": "Publicado (confirmado via API)",
+      "data_iso": "2026-07-16",
+      "link": "https://viajeguanabara.com.br/blog/rio-de-janeiro-campinas-onibus-guia-completo/"
     },
     {
       "num": 54,
@@ -648,8 +648,8 @@
       "persona": "Pedro Pita Gonçalves",
       "imagem": "Trio elétrico no circuito Barra-Ondina durante o Carnaval de Salvador, multidão de foliões nas ruas, bandeiras coloridas. Sugestão Shutterstock: \"Salvador Carnaval trio elétrico Barra Ondina multidão\".",
       "status": "Publicado (confirmado via API)",
-      "data_iso": "",
-      "link": ""
+      "data_iso": "2026-07-18",
+      "link": "https://viajeguanabara.com.br/blog/carnaval-de-salvador-2027-guia-completo/"
     },
     {
       "num": 55,
@@ -659,9 +659,9 @@
       "slug": "carnaval-recife-olinda-2027-guia-completo",
       "persona": "Pedro Pita Gonçalves",
       "imagem": "Bonecos gigantes desfilando nas ladeiras coloniais de Olinda durante o Carnaval, multidão acompanhando o cortejo. Sugestão Shutterstock: \"Olinda Carnaval bonecos gigantes ladeiras coloridas\".",
-      "status": "Nao encontrado como publicado",
-      "data_iso": "",
-      "link": ""
+      "status": "Publicado (confirmado via API)",
+      "data_iso": "2026-07-16",
+      "link": "https://viajeguanabara.com.br/blog/carnaval-recife-olinda-2027-guia-completo/"
     },
     {
       "num": 56,
@@ -671,9 +671,9 @@
       "slug": "o-que-fazer-em-sao-paulo-capital-guia-completo",
       "persona": "Júlia Farias",
       "imagem": "Vista do Parque Ibirapuera em São Paulo com o Museu de Arte Moderna ao fundo, pessoas caminhando e prédios da cidade emoldurando o horizonte. Sugestão Shutterstock: \"São Paulo Ibirapuera skyline urban park\".",
-      "status": "Nao encontrado como publicado",
-      "data_iso": "",
-      "link": ""
+      "status": "Publicado (confirmado via API)",
+      "data_iso": "2026-07-16",
+      "link": "https://viajeguanabara.com.br/blog/o-que-fazer-em-sao-paulo-capital-guia-completo/"
     },
     {
       "num": 57,
@@ -684,8 +684,8 @@
       "persona": "Júlia Farias",
       "imagem": "Mapa ilustrado ou colagem de pontos turísticos de São Paulo — Ibirapuera, Paulista, Liberdade — representando um roteiro de viagem. Sugestão Shutterstock: \"São Paulo travel itinerary landmarks collage\".",
       "status": "Publicado (confirmado via API)",
-      "data_iso": "",
-      "link": ""
+      "data_iso": "2026-07-20",
+      "link": "https://viajeguanabara.com.br/blog/roteiro-3-dias-sao-paulo/"
     },
     {
       "num": 58,
@@ -696,8 +696,8 @@
       "persona": "Bruno Vilas",
       "imagem": "Sanduíche de mortadela recém-montado no Mercado Municipal de São Paulo, com fatias generosas de mortadela à mostra e movimento do mercado ao fundo. Sugestão Shutterstock: \"São Paulo mortadella sandwich Mercadão market\".",
       "status": "Publicado (confirmado via API)",
-      "data_iso": "",
-      "link": ""
+      "data_iso": "2026-07-20",
+      "link": "https://viajeguanabara.com.br/blog/gastronomia-de-sao-paulo-o-que-comer-na-capital/"
     },
     {
       "num": 59,
@@ -708,8 +708,8 @@
       "persona": "Júlia Farias",
       "imagem": "Lago do Parque Ibirapuera em São Paulo com pessoas caminhando ao redor, prédio do MAM ao fundo, dia ensolarado. Sugestão Shutterstock: \"Ibirapuera park lake São Paulo museum\".",
       "status": "Publicado (confirmado via API)",
-      "data_iso": "",
-      "link": ""
+      "data_iso": "2026-07-20",
+      "link": "https://viajeguanabara.com.br/blog/parque-ibirapuera-guia-completo/"
     },
     {
       "num": 60,
@@ -720,8 +720,8 @@
       "persona": "Júlia Farias",
       "imagem": "Vista da Avenida Paulista em São Paulo com o prédio suspenso do MASP e movimento de pedestres, arranha-céus ao fundo. Sugestão Shutterstock: \"Avenida Paulista MASP building skyline São Paulo\".",
       "status": "Publicado (confirmado via API)",
-      "data_iso": "",
-      "link": ""
+      "data_iso": "2026-07-19",
+      "link": "https://viajeguanabara.com.br/blog/avenida-paulista-o-que-fazer/"
     },
     {
       "num": 61,
@@ -732,8 +732,8 @@
       "persona": "Júlia Farias",
       "imagem": "Rua Galvão Bueno no bairro da Liberdade em São Paulo com lampiões vermelhos tradicionais japoneses e movimento de pedestres. Sugestão Shutterstock: \"Liberdade São Paulo Japanese neighborhood lanterns\".",
       "status": "Publicado (confirmado via API)",
-      "data_iso": "",
-      "link": ""
+      "data_iso": "2026-07-19",
+      "link": "https://viajeguanabara.com.br/blog/bairro-da-liberdade-guia-completo/"
     },
     {
       "num": 62,
@@ -744,8 +744,8 @@
       "persona": "Samara Queiroz",
       "imagem": "Entrada do Zoológico de São Paulo com vegetação de mata atlântica preservada e família com crianças caminhando pela trilha. Sugestão Shutterstock: \"São Paulo zoo family children forest trail\".",
       "status": "Publicado (confirmado via API)",
-      "data_iso": "",
-      "link": ""
+      "data_iso": "2026-07-18",
+      "link": "https://viajeguanabara.com.br/blog/zoologico-de-sao-paulo-guia-completo/"
     },
     {
       "num": 63,
@@ -756,8 +756,8 @@
       "persona": "Júlia Farias",
       "imagem": "Vista do Congresso Nacional em Brasília com as duas torres e as cúpulas características, céu azul do Planalto Central ao fundo. Sugestão Shutterstock: \"Congresso Nacional Brasília Niemeyer architecture\".",
       "status": "Publicado (confirmado via API)",
-      "data_iso": "",
-      "link": ""
+      "data_iso": "2026-07-22",
+      "link": "https://viajeguanabara.com.br/blog/o-que-fazer-em-brasilia-guia-completo/"
     },
     {
       "num": 64,
@@ -769,7 +769,7 @@
       "imagem": "Colagem de monumentos de Brasília — Congresso Nacional, Catedral, Torre de TV — representando um roteiro de viagem pela capital. Sugestão Shutterstock: \"Brasília landmarks itinerary collage\".",
       "status": "Publicado (confirmado via API)",
       "data_iso": "2026-07-21",
-      "link": ""
+      "link": "https://viajeguanabara.com.br/blog/roteiro-brasilia-dias/"
     },
     {
       "num": 65,
@@ -780,8 +780,8 @@
       "persona": "Júlia Farias",
       "imagem": "Vista da Catedral Metropolitana de Brasília com sua estrutura circular de colunas curvas e céu azul ao fundo. Sugestão Shutterstock: \"Catedral Metropolitana Brasília Niemeyer architecture\".",
       "status": "Publicado (confirmado via API)",
-      "data_iso": "",
-      "link": ""
+      "data_iso": "2026-07-20",
+      "link": "https://viajeguanabara.com.br/blog/pontos-turisticos-de-brasilia/"
     },
     {
       "num": 66,
@@ -792,8 +792,8 @@
       "persona": "Bruno Vilas",
       "imagem": "Prato com ingredientes típicos do Cerrado brasileiro, como pequi e arroz, servido em restaurante de Brasília. Sugestão Shutterstock: \"Brasília Cerrado cuisine pequi traditional food\".",
       "status": "Publicado (confirmado via API)",
-      "data_iso": "",
-      "link": ""
+      "data_iso": "2026-07-19",
+      "link": "https://viajeguanabara.com.br/blog/gastronomia-de-brasilia-o-que-comer/"
     },
     {
       "num": 67,
@@ -803,9 +803,9 @@
       "slug": "o-que-fazer-em-balneario-camboriu-guia-completo",
       "persona": "Júlia Farias",
       "imagem": "Skyline de Balneário Camboriú com seus arranha-céus à beira-mar vistos da praia central, contraste entre prédios altos e areia. Sugestão Shutterstock: \"Balneário Camboriú skyline beach skyscrapers\".",
-      "status": "Nao encontrado como publicado",
-      "data_iso": "",
-      "link": ""
+      "status": "Publicado (confirmado via API)",
+      "data_iso": "2026-07-16",
+      "link": "https://viajeguanabara.com.br/blog/o-que-fazer-em-balneario-camboriu-guia-completo/"
     },
     {
       "num": 68,
@@ -816,8 +816,8 @@
       "persona": "Júlia Farias",
       "imagem": "Colagem de pontos turísticos de Balneário Camboriú — Cristo Luz, praia central, Parque Unipraias — representando um roteiro de viagem. Sugestão Shutterstock: \"Balneário Camboriú landmarks travel itinerary\".",
       "status": "Publicado (confirmado via API)",
-      "data_iso": "",
-      "link": ""
+      "data_iso": "2026-07-23",
+      "link": "https://viajeguanabara.com.br/blog/roteiro-balneario-camboriu-3-dias/"
     },
     {
       "num": 69,
@@ -828,8 +828,8 @@
       "persona": "Júlia Farias",
       "imagem": "Praia Central de Balneário Camboriú lotada de guarda-sóis coloridos com os arranha-céus da orla ao fundo, dia de verão. Sugestão Shutterstock: \"Balneário Camboriú beach umbrellas skyline summer\".",
       "status": "Publicado (confirmado via API)",
-      "data_iso": "",
-      "link": ""
+      "data_iso": "2026-07-22",
+      "link": "https://viajeguanabara.com.br/blog/praias-de-balneario-camboriu/"
     },
     {
       "num": 70,
@@ -840,8 +840,8 @@
       "persona": "Bruno Vilas",
       "imagem": "Prato de frutos do mar catarinense servido em restaurante com vista para a orla de Balneário Camboriú, camarão e ostras em destaque. Sugestão Shutterstock: \"seafood plate Balneário Camboriú restaurant ocean view\".",
       "status": "Publicado (confirmado via API)",
-      "data_iso": "",
-      "link": ""
+      "data_iso": "2026-07-21",
+      "link": "https://viajeguanabara.com.br/blog/gastronomia-de-balneario-camboriu/"
     },
     {
       "num": 71,
@@ -852,8 +852,8 @@
       "persona": "Júlia Farias",
       "imagem": "Vista do centro histórico barroco de Penedo AL às margens do Rio São Francisco, com casarões coloniais coloridos preservados. Sugestão Shutterstock: \"Penedo Alagoas centro histórico Rio São Francisco\".",
       "status": "Publicado (confirmado via API)",
-      "data_iso": "",
-      "link": ""
+      "data_iso": "2026-07-24",
+      "link": "https://viajeguanabara.com.br/blog/penedo-al-guia-completo-cidade-historica/"
     },
     {
       "num": 72,
@@ -865,7 +865,7 @@
       "imagem": "Vista de Garanhuns PE com vegetação serrana e clima ameno, arquitetura da cidade no Agreste pernambucano. Sugestão Shutterstock: \"Garanhuns Pernambuco Agreste hills climate\".",
       "status": "Publicado (confirmado via API)",
       "data_iso": "2026-07-26",
-      "link": ""
+      "link": "https://viajeguanabara.com.br/blog/garanhuns-pe-guia-completo-suica-pernambucana/"
     },
     {
       "num": 73,
@@ -877,7 +877,7 @@
       "imagem": "Cachoeira Casca D'Anta na Serra da Canastra MG com queda d'água de mais de 180 metros em meio ao cerrado. Sugestão Shutterstock: \"Cachoeira Casca D'Anta Serra da Canastra cerrado\".",
       "status": "Publicado (confirmado via API)",
       "data_iso": "2026-07-20",
-      "link": ""
+      "link": "https://viajeguanabara.com.br/blog/serra-da-canastra-mg-guia-completo/"
     },
     {
       "num": 74,
@@ -888,8 +888,8 @@
       "persona": "Júlia Farias",
       "imagem": "Vista da Praia do Gunga em Alagoas com lagoa de água esverdeada cercada por coqueiros e falésias, barcos ancorados na entrada. Sugestão Shutterstock: \"Praia do Gunga Alagoas lagoon coconut trees\".",
       "status": "Publicado (confirmado via API)",
-      "data_iso": "",
-      "link": ""
+      "data_iso": "2026-07-23",
+      "link": "https://viajeguanabara.com.br/blog/praia-do-gunga-e-praia-do-frances-al-guia-completo/"
     },
     {
       "num": 75,
@@ -900,8 +900,8 @@
       "persona": "Júlia Farias",
       "imagem": "Vista aérea da Praia de Copacabana com o calçadão em padrão de ondas português e prédios ao longo da orla. Sugestão Shutterstock: \"Copacabana beach aerial promenade Rio de Janeiro\".",
       "status": "Publicado (confirmado via API)",
-      "data_iso": "",
-      "link": ""
+      "data_iso": "2026-07-18",
+      "link": "https://viajeguanabara.com.br/blog/copacabana-guia-completo/"
     },
     {
       "num": 76,
@@ -912,8 +912,8 @@
       "persona": "Júlia Farias",
       "imagem": "Casarão histórico do Parque Lage no Rio de Janeiro com o Cristo Redentor visível ao fundo entre a vegetação da Mata Atlântica. Sugestão Shutterstock: \"Parque Lage mansion Cristo Redentor Rio de Janeiro\".",
       "status": "Publicado (confirmado via API)",
-      "data_iso": "",
-      "link": ""
+      "data_iso": "2026-07-18",
+      "link": "https://viajeguanabara.com.br/blog/parque-lage-guia-completo/"
     },
     {
       "num": 77,
@@ -924,8 +924,8 @@
       "persona": "Pedro Pita Gonçalves",
       "imagem": "Roda de samba na Pedra do Sal no Rio de Janeiro com músicos tocando pandeiro e cavaquinho, público animado ao redor à noite. Sugestão Shutterstock: \"Pedra do Sal samba Rio de Janeiro night\".",
       "status": "Publicado (confirmado via API)",
-      "data_iso": "",
-      "link": ""
+      "data_iso": "2026-07-17",
+      "link": "https://viajeguanabara.com.br/blog/pedra-do-sal-guia-completo/"
     },
     {
       "num": 78,
@@ -949,7 +949,7 @@
       "imagem": "Trilhistas subindo o Pico das Agulhas Negras com vista para os campos de altitude e formação rochosa escura ao fundo. Sugestão Shutterstock: \"Agulhas Negras hikers mountain trail Brazil\".",
       "status": "Publicado (confirmado via API)",
       "data_iso": "2026-07-27",
-      "link": ""
+      "link": "https://viajeguanabara.com.br/blog/pico-das-agulhas-negras-guia-completo/"
     },
     {
       "num": 80,
@@ -959,9 +959,9 @@
       "slug": "penedo-rj-colonia-finlandesa-guia-completo",
       "persona": "Júlia Farias",
       "imagem": "Casinhas coloridas da Pequena Finlândia em Penedo, distrito de Itatiaia RJ, com arquitetura nórdica e decoração temática. Sugestão Shutterstock: \"Penedo Itatiaia Pequena Finlândia colorful houses\".",
-      "status": "Nao encontrado como publicado",
-      "data_iso": "",
-      "link": ""
+      "status": "Publicado (confirmado via API)",
+      "data_iso": "2026-07-16",
+      "link": "https://viajeguanabara.com.br/blog/penedo-rj-colonia-finlandesa-guia-completo/"
     },
     {
       "num": 81,
@@ -972,8 +972,8 @@
       "persona": "Júlia Farias",
       "imagem": "Colagem de pontos turísticos de Campos do Jordão — Vila Capivari, Palácio Boa Vista, trilha — representando um roteiro de viagem de inverno. Sugestão Shutterstock: \"Campos do Jordão travel itinerary landmarks winter\".",
       "status": "Publicado (confirmado via API)",
-      "data_iso": "",
-      "link": ""
+      "data_iso": "2026-07-24",
+      "link": "https://viajeguanabara.com.br/blog/roteiro-3-dias-campos-do-jordao/"
     },
     {
       "num": 82,
@@ -984,8 +984,8 @@
       "persona": "Bruno Vilas",
       "imagem": "Fondue de queijo sendo servido em restaurante de Campos do Jordão, ambiente aconchegante com lareira ao fundo. Sugestão Shutterstock: \"cheese fondue Campos do Jordão restaurant winter cozy\".",
       "status": "Publicado (confirmado via API)",
-      "data_iso": "",
-      "link": ""
+      "data_iso": "2026-07-23",
+      "link": "https://viajeguanabara.com.br/blog/gastronomia-de-campos-do-jordao-fondue-e-chocolate/"
     },
     {
       "num": 83,
@@ -996,8 +996,8 @@
       "persona": "Júlia Farias",
       "imagem": "Vista do Palácio Boa Vista em Campos do Jordão com jardins bem cuidados e arquitetura clássica, céu de inverno ao fundo. Sugestão Shutterstock: \"Palácio Boa Vista Campos do Jordão jardins\".",
       "status": "Publicado (confirmado via API)",
-      "data_iso": "",
-      "link": ""
+      "data_iso": "2026-07-21",
+      "link": "https://viajeguanabara.com.br/blog/pontos-turisticos-de-campos-do-jordao/"
     },
     {
       "num": 84,
@@ -1009,7 +1009,7 @@
       "imagem": "Colagem de pontos turísticos de Salvador — Pelourinho, Farol da Barra, Elevador Lacerda — representando um roteiro de viagem. Sugestão Shutterstock: \"Salvador Bahia landmarks travel itinerary\".",
       "status": "Publicado (confirmado via API)",
       "data_iso": "2026-07-25",
-      "link": ""
+      "link": "https://viajeguanabara.com.br/blog/roteiro-3-dias-salvador/"
     },
     {
       "num": 85,
@@ -1020,8 +1020,8 @@
       "persona": "Bruno Vilas",
       "imagem": "Moqueca baiana servida em panela de barro tradicional com camarão e dendê, mesa de restaurante em Salvador ao fundo. Sugestão Shutterstock: \"moqueca baiana clay pot Salvador Bahia\".",
       "status": "Publicado (confirmado via API)",
-      "data_iso": "",
-      "link": ""
+      "data_iso": "2026-07-24",
+      "link": "https://viajeguanabara.com.br/blog/gastronomia-de-salvador-moqueca-acaraje-e-mais/"
     },
     {
       "num": 86,
@@ -1033,7 +1033,7 @@
       "imagem": "Vista do Elevador Lacerda em Salvador ligando a Cidade Alta à Cidade Baixa, com a Baía de Todos os Santos ao fundo. Sugestão Shutterstock: \"Elevador Lacerda Salvador Bahia baía\".",
       "status": "Publicado (confirmado via API)",
       "data_iso": "2026-07-25",
-      "link": ""
+      "link": "https://viajeguanabara.com.br/blog/pontos-turisticos-de-salvador/"
     },
     {
       "num": 87,
@@ -1069,7 +1069,7 @@
       "imagem": "Vista do topo da Pedra da Gávea no Rio de Janeiro com a orla e o mar ao fundo, trilhistas no cume da formação rochosa. Sugestão Shutterstock: \"Pedra da Gávea Rio de Janeiro trilha vista mar\".",
       "status": "Publicado (confirmado via API)",
       "data_iso": "2026-07-21",
-      "link": ""
+      "link": "https://viajeguanabara.com.br/blog/pedra-da-gavea-guia-completo-trilha/"
     },
     {
       "num": 90,
@@ -1080,8 +1080,8 @@
       "persona": "Samara Queiroz",
       "imagem": "Tanque principal do AquaRio no Rio de Janeiro com tubarões e peixes tropicais visíveis através de vidro panorâmico, visitantes observando. Sugestão Shutterstock: \"AquaRio Rio de Janeiro aquarium shark tank\".",
       "status": "Publicado (confirmado via API)",
-      "data_iso": "",
-      "link": ""
+      "data_iso": "2026-07-22",
+      "link": "https://viajeguanabara.com.br/blog/aquario-do-rio-de-janeiro-aquarrio-guia-completo/"
     },
     {
       "num": 91,
@@ -1092,8 +1092,8 @@
       "persona": "Júlia Farias",
       "imagem": "Vista panorâmica do Rio de Janeiro a partir do Mirante Dona Marta, com o Cristo Redentor visível e a Baía de Guanabara ao fundo. Sugestão Shutterstock: \"Mirante Dona Marta vista Rio de Janeiro panorâmica\".",
       "status": "Publicado (confirmado via API)",
-      "data_iso": "",
-      "link": ""
+      "data_iso": "2026-07-23",
+      "link": "https://viajeguanabara.com.br/blog/mirante-dona-marta-guia-completo/"
     },
     {
       "num": 92,
@@ -1116,8 +1116,8 @@
       "persona": "Júlia Farias",
       "imagem": "Vista da Praia do Espelho BA com piscinas naturais formadas entre rochas na maré baixa, falésias e coqueiros ao fundo. Sugestão Shutterstock: \"Praia do Espelho Bahia piscinas naturais falésias\".",
       "status": "Publicado (confirmado via API)",
-      "data_iso": "",
-      "link": ""
+      "data_iso": "2026-07-21",
+      "link": "https://viajeguanabara.com.br/blog/praia-do-espelho-ba-guia-completo/"
     },
     {
       "num": 94,
@@ -1129,7 +1129,7 @@
       "imagem": "Vista aérea da Península de Maraú BA com piscinas naturais na Praia de Taipu de Fora, água turquesa e coqueiros na costa. Sugestão Shutterstock: \"Península de Maraú Taipu de Fora aérea piscinas naturais\".",
       "status": "Publicado (confirmado via API)",
       "data_iso": "2026-07-21",
-      "link": ""
+      "link": "https://viajeguanabara.com.br/blog/peninsula-de-marau-ba-guia-completo/"
     },
     {
       "num": 95,
@@ -1140,8 +1140,8 @@
       "persona": "Júlia Farias",
       "imagem": "Vista da orla de Boa Viagem em Recife com calçadão, coqueiros e prédios ao longo da praia urbana. Sugestão Shutterstock: \"Boa Viagem Recife orla calçadão urbano\".",
       "status": "Publicado (confirmado via API)",
-      "data_iso": "",
-      "link": ""
+      "data_iso": "2026-07-22",
+      "link": "https://viajeguanabara.com.br/blog/praia-de-boa-viagem-guia-completo/"
     }
   ]
 }
