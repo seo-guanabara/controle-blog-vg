@@ -1,0 +1,38 @@
+name: Validar Publicação dos Artigos
+
+# Roda automaticamente todo dia às 6h (horário de Brasília, UTC-3 = 9h UTC)
+# e também pode ser rodado manualmente pelo botão "Run workflow" na aba Actions
+on:
+  schedule:
+    - cron: '0 9 * * *'
+  workflow_dispatch: {}
+
+# Permissão necessária para o workflow conseguir commitar de volta no repositório
+permissions:
+  contents: write
+
+jobs:
+  validar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar o código do repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Instalar dependências
+        run: pip install requests
+
+      - name: Rodar validação de publicação
+        run: python validar_publicacao.py
+
+      - name: Commitar resultado atualizado
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/resultado.json
+          git diff --staged --quiet && echo "Nada mudou, pulando commit" || git commit -m "Atualiza status de publicação dos artigos [automático]"
+          git push
