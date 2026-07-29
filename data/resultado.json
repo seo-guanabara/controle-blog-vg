@@ -1,7 +1,7 @@
 {
-  "gerado_em": "2026-07-28T17:01:42.729156+00:00",
+  "gerado_em": "2026-07-29T11:12:15.719273+00:00",
   "total_artigos": 95,
-  "total_publicados": 90,
+  "total_publicados": 91,
   "artigos": [
     {
       "num": 1,
@@ -935,9 +935,9 @@
       "slug": "parque-nacional-de-itatiaia-guia-completo",
       "persona": "Júlia Farias",
       "imagem": "Vista do Pico das Agulhas Negras no Parque Nacional de Itatiaia com formação rochosa escura e vegetação de campos de altitude ao redor. Sugestão Shutterstock: \"Pico das Agulhas Negras Itatiaia campos de altitude\".",
-      "status": "Nao encontrado como publicado",
-      "data_iso": "",
-      "link": ""
+      "status": "Publicado (confirmado via API)",
+      "data_iso": "2026-07-28",
+      "link": "https://viajeguanabara.com.br/blog/parque-nacional-de-itatiaia-guia-completo/"
     },
     {
       "num": 79,
