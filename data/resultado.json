@@ -1,7 +1,7 @@
 {
-  "gerado_em": "2026-07-29T11:12:15.719273+00:00",
+  "gerado_em": "2026-07-30T10:56:26.283036+00:00",
   "total_artigos": 95,
-  "total_publicados": 91,
+  "total_publicados": 92,
   "artigos": [
     {
       "num": 1,
@@ -1055,9 +1055,9 @@
       "slug": "pico-da-bandeira-parque-nacional-do-caparao",
       "persona": "Júlia Farias",
       "imagem": "Vista do Pico da Bandeira no Parque Nacional do Caparaó com formação rochosa e vegetação de campos de altitude, nascer do sol ao fundo. Sugestão Shutterstock: \"Pico da Bandeira Caparaó nascer do sol montanha\".",
-      "status": "Nao encontrado como publicado",
-      "data_iso": "",
-      "link": ""
+      "status": "Publicado (confirmado via API)",
+      "data_iso": "2026-07-29",
+      "link": "https://viajeguanabara.com.br/blog/pico-da-bandeira-parque-nacional-do-caparao/"
     },
     {
       "num": 89,
