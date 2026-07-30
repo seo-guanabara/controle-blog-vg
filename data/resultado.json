@@ -1,7 +1,7 @@
 {
-  "gerado_em": "2026-07-30T10:56:26.283036+00:00",
+  "gerado_em": "2026-07-30T18:49:42.023532+00:00",
   "total_artigos": 95,
-  "total_publicados": 92,
+  "total_publicados": 93,
   "artigos": [
     {
       "num": 1,
@@ -1103,9 +1103,9 @@
       "slug": "pico-do-jaragua-guia-completo",
       "persona": "Júlia Farias",
       "imagem": "Vista panorâmica da cidade de São Paulo a partir do mirante do Pico do Jaraguá, com o horizonte de prédios visível ao fundo. Sugestão Shutterstock: \"Pico do Jaraguá vista São Paulo mirante panorâmica\".",
-      "status": "Nao encontrado como publicado",
-      "data_iso": "",
-      "link": ""
+      "status": "Publicado (confirmado via API)",
+      "data_iso": "2026-07-30",
+      "link": "https://viajeguanabara.com.br/blog/pico-do-jaragua-guia-completo/"
     },
     {
       "num": 93,
