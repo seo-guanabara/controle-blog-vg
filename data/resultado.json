@@ -1,7 +1,7 @@
 {
-  "gerado_em": "2026-07-31T11:15:24.451886+00:00",
+  "gerado_em": "2026-08-01T10:24:28.328110+00:00",
   "total_artigos": 95,
-  "total_publicados": 93,
+  "total_publicados": 94,
   "artigos": [
     {
       "num": 1,
@@ -1043,9 +1043,9 @@
       "slug": "juazeiro-do-norte-ce-guia-completo",
       "persona": "Pedro Pita Gonçalves",
       "imagem": "Estátua do Padre Cícero no Horto de Juazeiro do Norte CE com romeiros subindo a rampa de acesso, céu claro ao fundo. Sugestão Shutterstock: \"Padre Cícero estátua Juazeiro do Norte romeiros\".",
-      "status": "Nao encontrado como publicado",
-      "data_iso": "",
-      "link": ""
+      "status": "Publicado (confirmado via API)",
+      "data_iso": "2026-07-31",
+      "link": "https://viajeguanabara.com.br/blog/juazeiro-do-norte-ce-guia-completo/"
     },
     {
       "num": 88,
